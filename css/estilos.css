@@ -20,3 +20,21 @@ body
     color: chartreuse;
     font-size: small;
 }
+
+#cabecera
+{
+    background: #33a;
+     box-shadow: 0 px 2px 20px 0px rgba(0,0,0,5);
+     color:azure;
+     font-weight: bold;
+     margin: 0;
+     padding: 0.5px;
+}
+
+#cabecera #tagline
+{
+    padding:0,0,1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    
+}
