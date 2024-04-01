@@ -38,3 +38,9 @@ body
     font-size: 0.8em;
     
 }
+#footer
+{
+    color: yellow;
+    text-align: center;
+    padding: 1em
+}
